@@ -110,6 +110,6 @@ switch (mesDigitado) {
         break // parar
 
     default:
-        console.log("o mês digitado não é válido!")
+        console.log("digite direito, né?")
         break // parar
 }

@@ -84,5 +84,5 @@ if (mesDigitado == "janeiro") {
     console.log("o mês digitado é válido!")
 
 } else {
-    console.log("o mês digitado não é válido!")
+    console.log("digite direito, né?")
 }
