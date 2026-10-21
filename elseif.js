@@ -42,3 +42,47 @@ if (escolha == 3 ) {
 if (escolha == 0 ) {
     console.log("sair")
 }
+
+// criar um sistema que valide se o nome do mês digitado é valido!
+
+var mesDigitado = "abril"
+
+if (mesDigitado == "janeiro") {
+    console.log("o mês digitado é válido!")
+
+} else if (mesDigitado == "fevereiro") {
+    console.log("o mês digitado é válido!")
+
+} else if (mesDigitado == "março") {
+    console.log("o mês digitado é válido!")
+
+} else if (mesDigitado == "abril") {
+    console.log("o mês digitado é válido!")
+
+} else if (mesDigitado == "maio") {
+    console.log("o mês digitado é válido!")
+
+} else if (mesDigitado == "junho") {
+    console.log("o mês digitado é válido!")
+
+} else if (mesDigitado == "julho") {
+    console.log("o mês digitado é válido!")
+
+} else if (mesDigitado == "agosto") {
+    console.log("o mês digitado é válido!")
+
+} else if (mesDigitado == "setembro") {
+    console.log("o mês digitado é válido!")
+
+} else if (mesDigitado == "outubro") {
+    console.log("o mês digitado é válido!")
+
+} else if (mesDigitado == "novembro") {
+    console.log("o mês digitado é válido!")
+
+} else if (mesDigitado == "dezembro") {
+    console.log("o mês digitado é válido!")
+
+} else {
+    console.log("o mês digitado não é válido!")
+}

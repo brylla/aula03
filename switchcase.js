@@ -55,3 +55,61 @@ switch (escolhaMenu) {
 }
 
 
+
+// criar um sistema que valide se o nome do mês digitado é valido!
+
+var mesDigitado = "abril"
+
+switch (mesDigitado) {
+    case "janeiro":
+        console.log("o mês digitado é válido!")
+        break // parar
+
+    case "fevereiro":
+        console.log("o mês digitado é válido!")
+        break // parar
+
+    case "março":
+        console.log("o mês digitado é válido!")
+        break // parar
+
+    case "abril":
+        console.log("o mês digitado é válido!")
+        break // parar
+
+    case "maio":
+        console.log("o mês digitado é válido!")
+        break // parar
+
+    case "junho":
+        console.log("o mês digitado é válido!")
+        break // parar
+
+    case "julho":
+        console.log("o mês digitado é válido!")
+        break // parar
+
+    case "agosto":
+        console.log("o mês digitado é válido!")
+        break // parar
+
+    case "setembro":
+        console.log("o mês digitado é válido!")
+        break // parar
+
+    case "outubro":
+        console.log("o mês digitado é válido!")
+        break // parar
+
+    case "novembro":
+        console.log("o mês digitado é válido!")
+        break // parar
+
+    case "dezembro":
+        console.log("o mês digitado é válido!")
+        break // parar
+
+    default:
+        console.log("o mês digitado não é válido!")
+        break // parar
+}
